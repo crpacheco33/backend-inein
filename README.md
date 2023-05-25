@@ -1,5 +1,5 @@
 # backend-inein
-
+```
 db configuration -> settings.py:
 DATABASES = {
     'default': {
@@ -28,3 +28,4 @@ create Environment Variable
 
 
 python manage.py runserver
+```
